@@ -77,5 +77,5 @@ file paths and database settings for your local environment.
 - Power BI dashboard
 - Analysis report and Gamma presentation
 
-## Author: Minodya Nandasena
-## Skills: Python · EDA · Data Cleaning · PostgreSQL · SQL · Power BI · Business Reporting
+Author: Minodya Nandasena
+Skills: Python · EDA · Data Cleaning · PostgreSQL · SQL · Power BI · Business Reporting
