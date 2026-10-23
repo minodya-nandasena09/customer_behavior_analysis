@@ -3,18 +3,18 @@ An end-to-end data analytics project exploring customer purchasing
 patterns, subscription behaviour, discount usage, and product
 performance using Python, PostgreSQL, and Power BI.
 
-# Overview
+## Overview
 Analyzed 3,900 purchase records to identify customer trends and
 develop data-driven recommendations for subscription growth, customer
 loyalty, and discount strategy.
 
-# Tools & Technologies
+## Tools & Technologies
 - Python: Pandas, NumPy, Jupyter Notebook
 - PostgreSQL & pgAdmin: Database management and SQL analysis
 - Power BI: Interactive dashboard and data visualisation
 - Gamma: Project presentation
   
-# Project Workflow
+## Project Workflow
 1. Data loading and EDA: Inspected the dataset, data types, summary
    statistics, and missing values using Python.
 2. Data cleaning: Imputed 37 missing review ratings using the
@@ -30,7 +30,7 @@ loyalty, and discount strategy.
 5. Reporting: Prepared a written report and a Gamma presentation to
    communicate the findings and recommendations.
    
-# Key Findings
+## Key Findings
 - 3,900 purchase records across 25 products, 4 categories,
   and 50 locations.
 - Average purchase amount: $59.76; average review rating:
@@ -42,12 +42,12 @@ loyalty, and discount strategy.
 - Average purchase amount was $60.48 for Express shipping and
   $58.46 for Standard shipping.
   
-# Dashboard
+## Dashboard
 The Power BI dashboard summarises customer and purchase metrics,
 subscription status, revenue by demographic groups, customer segments,
 discount rates, and product ratings.
 
-# Business Recommendations
+## Business Recommendations
 - Test clearer subscription benefits to improve subscription
   conversion.
 - Encourage repeat purchases through customer loyalty initiatives.
@@ -56,7 +56,7 @@ discount rates, and product ratings.
   campaigns.
 - Test targeted campaigns and measure results before scaling them.
   
-# How to Run
+## How to Run
 1. Clone this repository:
    git clone <repository-url>
    cd customer-shopping-behavior-analysis
@@ -71,7 +71,7 @@ discount rates, and product ratings.
 Do not commit database passwords or other sensitive credentials. Update
 file paths and database settings for your local environment.
 
-# Deliverables
+## Deliverables
 - Python notebook for EDA and data cleaning
 - PostgreSQL SQL queries
 - Power BI dashboard
